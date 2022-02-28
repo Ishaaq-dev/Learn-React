@@ -19,7 +19,7 @@ const Pet = (props) => {
         animal: "Bird",
         breed: "Cockatiel",
       }),
-      React.createElement(Pet, { name: "check", animal: "gpg token", breed: "is working"}),
+      React.createElement(Pet, { name: "check", animal: "gpg token", breed: "is working now"}),
     ]);
   };
   
